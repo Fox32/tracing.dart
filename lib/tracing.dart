@@ -6,7 +6,7 @@
  */
 library angular.tracing;
 
-import "dart:profiler";
+import "dart:developer";
 
 bool _wtfEnabled = false;
 var _trace;

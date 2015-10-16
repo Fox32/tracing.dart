@@ -3,6 +3,7 @@
 ## New features
 
 - Add executeInScope(), executeInScope1() to help reduce boilerplate code
+- Use dart:developer instead of deprecated dart:profiler
 
 # 0.1.0
 
